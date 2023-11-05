@@ -1,1 +1,1 @@
-# Coputational Neuronscience
+# Computational Neuroscience
